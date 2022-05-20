@@ -8,7 +8,7 @@ ys = yt.streams.get_highest_resolution()
 if answer == "y":
     ys = yt.streams.get_highest_resolution()
     print("Downloading...")
-    ys.download("$HOME/Downloads")
+    ys.download("")
     print("Download complete!")
 elif answer == "n":
     exit
