@@ -6,5 +6,6 @@ This is a project I wrote in like 30 minutes so if there is any errors, feel fre
 # Usage
 
 cd PyYT
+
 python3 main.py
 
